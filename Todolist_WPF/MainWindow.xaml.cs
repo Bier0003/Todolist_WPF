@@ -12,7 +12,7 @@ namespace Todolist_WPF
     /// </summary>
     public partial class MainWindow : Window
     {
-
+        //new
 
         public static DB_Operation DB_Operation = new DB_Operation();
         public static List<Todo> lists = new List<Todo>();
